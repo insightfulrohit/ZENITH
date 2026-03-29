@@ -65,6 +65,8 @@ Your daily command centre. The moment you open ZENITH, you see:
 - All today's habits with one-click toggle
 - Upcoming tasks at a glance
 
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/546546d4-6cea-4abf-9e65-cd28f739ab4c" />
+
 ### ✅ Daily Habits
 - Tick any habit by clicking its row — it turns green instantly
 - See your streak per habit (e.g. 🔥 12 days) and best-ever streak
@@ -72,6 +74,8 @@ Your daily command centre. The moment you open ZENITH, you see:
 - Add unlimited custom habits with a category and weekly target
 - Archive habits you no longer need (data is preserved, not deleted)
 - Export your habit data to CSV
+
+<img width="1919" height="1017" alt="image" src="https://github.com/user-attachments/assets/c16b8e55-ce20-4b8b-a132-6fcbc0ddb3a4" />
 
 ### 📋 Task Manager
 - Add tasks with name, due date, due time, category, priority and notes
@@ -83,6 +87,8 @@ Your daily command centre. The moment you open ZENITH, you see:
 - Sort by: Priority / Due Date / Status / Name
 - Export tasks to CSV
 
+<img width="1919" height="1011" alt="image" src="https://github.com/user-attachments/assets/2283a088-1a3d-45dd-9173-7ce4789434c0" />
+
 ### 🎯 Life Goals
 - Set big-picture goals with a target date and category
 - Track progress from 0% to 100% with a visual progress bar
@@ -91,12 +97,16 @@ Your daily command centre. The moment you open ZENITH, you see:
 - Add key milestones and notes to each goal
 - See a live snapshot: how many goals are active, completed, on hold
 
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/7ba1d250-06b6-44ed-8db2-d30780dcec69" />
+
 ### 📊 Analytics
 - **30-day calendar heatmap** — every day colour-coded by completion %
 - **Per-habit bar chart** — see which habits you're most consistent with
 - **Detailed stats table** — 7-day count, 30-day count, %, streak, best streak, weekly target
 - **Mood trend line chart** — see how your mood has changed over time (after logging mood)
 - Hover over any heatmap cell for a tooltip showing exact numbers
+
+<img width="1919" height="1003" alt="image" src="https://github.com/user-attachments/assets/3e0c6a47-b2ce-408a-89ca-bd597c114877" />
 
 ### 📓 Daily Journal
 - Write daily entries using 4 guided prompts:
@@ -107,11 +117,15 @@ Your daily command centre. The moment you open ZENITH, you see:
 - Rate your mood from 1 😞 to 10 ✨ using emoji buttons
 - All past entries shown below (last 10 days) with mood icon
 
+<img width="1919" height="1012" alt="image" src="https://github.com/user-attachments/assets/ccd19b8b-fb54-4d7f-9f86-9306b4dbc5da" />
+
 ### 💬 Quotes Library
 - 50 unique motivational quotes from great thinkers and leaders
 - One quote is featured every day (rotates automatically based on date)
 - 🎲 Random Quote button for instant inspiration anytime
 - Full library listed so you can read them all
+
+<img width="1913" height="1015" alt="image" src="https://github.com/user-attachments/assets/3a081a7e-db4b-484a-bc8d-14d377dfd545" />
 
 ### ⚙️ Settings
 - Export all your data as a JSON backup file
@@ -119,6 +133,8 @@ Your daily command centre. The moment you open ZENITH, you see:
 - Export habits and tasks as separate CSV files
 - Reset all data (with double-confirm safety)
 - Live data summary — see how many habits, tasks, goals, and journal entries you have
+
+<img width="1919" height="1015" alt="image" src="https://github.com/user-attachments/assets/fb7e427c-1f32-4e0a-b07c-29bdc72dfa19" />
 
 ---
 
